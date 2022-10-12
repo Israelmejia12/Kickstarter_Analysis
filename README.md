@@ -11,7 +11,7 @@
 
 ### Two conclusions I can draw about the Outcomes based on Launch Date are, number one that the months of March and to May are the best months to launch a campaing. 
 
-!(https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Theater_Outcomes_vs_Launch.png)
+![LINE GRAPH 1](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Theater_Outcomes_vs_Launch.png)
 
 ###The line graphs shoes a spike on the number of successful campaing on those months. Number Two, The month of May is the top month to run the campaing, after that there is a continual decline all the way until December. 
 
