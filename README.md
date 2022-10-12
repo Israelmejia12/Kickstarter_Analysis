@@ -23,6 +23,6 @@
 
 ### Some limitations of this dataset are that it does not give the testimony of the people that already did the campaings in the past. Even though the dataset does a good job at presentig the data real life experience can help Louise go even further in making her project campaign successful
 
-##possible tables and/or graphs that we could create
+## Tables/Graphs that we could create for a Future Project
 
-###Another Chart that we could have use to help Loise was histogram chart combine with a line graph to get a better visual, or we could have also use a pie graph. Although I believe that the graphs we used does a good job in showing Louise what she needs from the dataset. 
+### Another Chart that we could have use to help Loise was histogram chart combine with a line graph to get a better visual, or we could have also use a pie graph. Although I believe that the graphs we used does a good job in showing Louise what she needs from the dataset. 
