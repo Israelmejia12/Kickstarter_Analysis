@@ -8,9 +8,9 @@
 
 ### In order to arrived at our conclusion we separated the data we would be analysing, Successful, failed and cancelled campaings. we use "powerful tools such as vlookup to find the data needed. We also used graphs and pivot tables to find the information to get a better visual of the data. The most significant challenge I encounter was using the countifs fuction. This was because I had a misunderstand about the use of filters. I thought that when a drop down filter was use that this would alter the data. I was able to overcome this challenge by the help of a college that help me understand what was actully happening and how to properly insurt a filter on the countifs function. The line graphs shoes a spike on the number of successful campaing on those months. Number Two, The month of May is the top month to run the campaing, after that there is a continual decline all the way until December.
 
-## Two conclusions you can draw about the Outcomes based on Launch Date
+## Conclusions of Outcomes based on Launch Date
 
-### A conclusions I can draw about the Outcomes based on Launch Date I that the months March and May are the best months to launch a campaing. For a visual aspect please see the line graph below.  
+### A conclusions I can draw about the Outcomes based on the Launch Date is that the months March and May are the best months to launch a campaing. For a visual aspect please see the line graph below.  
 
 ![LINE GRAPH 1](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Theater_Outcomes_vs_Launch.png)
 
