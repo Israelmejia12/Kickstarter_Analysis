@@ -25,4 +25,4 @@
 
 ##possible tables and/or graphs that we could create
 
-###Another Chart that we could have use to help Loise was histogram chart combine with a line graph to get a better visual, or we could have also use a pie graph. All Set. I believe that the graphs we use do a good job in showing Louise what she wants from the dataset. 
+###Another Chart that we could have use to help Loise was histogram chart combine with a line graph to get a better visual, or we could have also use a pie graph. Although I believe that the graphs we used does a good job in showing Louise what she needs from the dataset. 
