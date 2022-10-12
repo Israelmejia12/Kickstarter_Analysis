@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview Of Project
 
 ### The purpose of this analysis is to "organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful".
 ##Analysis and Challenges
@@ -13,7 +13,7 @@
 
 ![LINE GRAPH 1](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Theater_Outcomes_vs_Launch.png)
 
-##Outcomes Baed on Goals
+## Outcomes Based on Goals
 
 ### By looking at the Line Graph, I conclude That the Outcomes based on Goals that there is an opposite yet reciprocal corolation between the number of sucessful and failed campaings. There is also no data on the cancelled campaings so I cannnot say anything on it. Also There are three points where failed and cancelled are the same between 40% to 60% of the campaings.For a visual aspect please see the line graph below.  
 
