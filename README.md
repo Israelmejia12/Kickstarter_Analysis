@@ -17,7 +17,7 @@
 
 ### By looking at the Line Graph, I conclude about the Outcomes based on Goals that there is an opposite yet reciprocal corolation between the number of sucessful and failed campaings. There is also no data on the cancelled campaings so I cannnot say anything on it. Also There are three points where failed and cancelled are the same between 40% to 60% of the campaings.
 
- !(https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Outcpmes_VS_goals.png..png)
+ ![Line GRAPH](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Outcpmes_VS_goals.png..png)
  
 ## Limitations of Dataset
 
