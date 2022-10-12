@@ -9,13 +9,13 @@
 
 ## Two conclusions you can draw about the Outcomes based on Launch Date
 
-### Two conclusions I can draw about the Outcomes based on Launch Date are, number one that the months of March and to May are the best months to launch a campaing. 
+### A conclusions I can draw about the Outcomes based on Launch Date I that the months March and May are the best months to launch a campaing. For a visual aspect please see the line graph below.  
 
 ![LINE GRAPH 1](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Theater_Outcomes_vs_Launch.png)
 
 ###The line graphs shoes a spike on the number of successful campaing on those months. Number Two, The month of May is the top month to run the campaing, after that there is a continual decline all the way until December. 
 
-### By looking at the Line Graph, I conclude about the Outcomes based on Goals that there is an opposite yet reciprocal corolation between the number of sucessful and failed campaings. There is also no data on the cancelled campaings so I cannnot say anything on it. Also There are three points where failed and cancelled are the same between 40% to 60% of the campaings.
+### By looking at the Line Graph, I conclude about the Outcomes based on Goals that there is an opposite yet reciprocal corolation between the number of sucessful and failed campaings. There is also no data on the cancelled campaings so I cannnot say anything on it. Also There are three points where failed and cancelled are the same between 40% to 60% of the campaings.For a visual aspect please see the line graph below.  
 
  ![Line GRAPH](https://github.com/Israelmejia12/Kickstarter_Analysis/blob/c23a92355e600734c9b10423cafd9624a66ccc3d/Outcpmes_VS_goals.png..png)
  
